@@ -86,10 +86,3 @@ config = {
   }
 }
 ```
-
-## Donate
-If you found this repo helpful and would like to donate, every bit helps!
-
-- BTC: bc1qr597jpxajrr5y32xxy9s90djwe27duug9jgvw5
-- ETH: 0x2c167e7C96a04218361197e1caADb1F9813c5cd9
-- DOGE: DMpw1DapRxRJoSJMA3rPWspggXQUXLwtnm
